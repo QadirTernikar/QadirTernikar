@@ -52,6 +52,9 @@ I'm a passionate engineer and researcher, blending core computer science princip
 
 ---
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=QadirTernikar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 ### 🌟 Motto
 > *"Engineering is not just about building — it’s about building with purpose."*
 
